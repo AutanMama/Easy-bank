@@ -235,7 +235,8 @@ p {
     }
 
     .mockup img {
-        width: 80%;
+        width: 100%;
+        margin: auto;
         height: auto;
     }
 
@@ -253,6 +254,7 @@ p {
 
     .container3-child {
         flex-direction: column;
+        text-align: center;
     }
 
     .container4-child div{
